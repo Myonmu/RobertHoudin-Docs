@@ -25,14 +25,14 @@ SG Patcher simplifies "copy-paste properties" process by storing the properties 
 
 > To create a `SGPropertyPatchPreset`: **Create/RobertHoudin/SG Property Patch Preset**.
 
-![alt text{caption=SG Property Patch Preset in Inspector}](/doc-res/misc-modules/SGPropertyPatchPreset-Inspector.png)
+![alt text{caption=SG Property Patch Preset in Inspector}](doc-res/misc-modules/SGPropertyPatchPreset-Inspector.png)
 
 To patch a shader graph or sub graph:
 
 1. Select or Drag and Drop a shader graph in **Sg To Patch** field, or a sub graph in **Sub Graph To Patch** field.
 2. click on the three little dots just above the open button and select **Patch Shader Graph** or **Patch Sub Graph**.
 
-![alt text{caption: Patching a shader graph}](/doc-res/misc-modules/SGPropertyPatchPreset-Patching.png)
+![alt text{caption: Patching a shader graph}](doc-res/misc-modules/SGPropertyPatchPreset-Patching.png)
 
 The properties you created in **Entries** will be written to the shader graph or sub graph.
 
